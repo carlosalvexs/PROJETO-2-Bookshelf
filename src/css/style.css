@@ -1,0 +1,43 @@
+.ex-img {
+    width: 400px;
+}
+
+.zero-block {
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 50px;
+}
+
+.subscribe button {
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    height: 35px;
+    border: none;
+}
+
+.footer {
+    background-color:black;
+    color: white;
+    text-align: center;
+    
+    padding: 20px;
+}
+
+.op-button {
+    border-radius: 30px;
+    background-color: #43abf6;
+    color: white;
+    height: 35px;
+    border: none;
+}
+
+.see-more{
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    height: 35px;
+    border: none;
+}
